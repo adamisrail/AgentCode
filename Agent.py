@@ -11,6 +11,7 @@ class Agent(object):
     '''
 
 
+
     @abstractmethod
     def __init__(self):
         pass
